@@ -7,7 +7,6 @@
 <b> A = Left</b>
 <b> S = Back</b>
 <b> D = Right</b>
-<b>Example screenshots of our completed Just Java App in English, Spanish, French and Korean</b><br><br>
 <b>Screenshots</b>
 ![Alt text](https://github.com/JackTheBOSSYT/UnityGames/blob/master/screenshot/tanks_1.PNG "The Tanks Can Shoot Bullets")
 <br>
