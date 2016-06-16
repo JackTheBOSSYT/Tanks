@@ -20,7 +20,7 @@
 <b>Screenshots</b>
 ![Alt text](https://github.com/JackTheBOSSYT/UnityGames/blob/master/screenshot/tanks_1.PNG "The Tanks Can Shoot Bullets")
 <br>
-![Alt text](https://github.com/JackTheBOSSYT/UnityGames/blob/master/screenshot/tanks_1.PNG "The Tanks Can Shoot Bullets")
+![Alt text](https://github.com/JackTheBOSSYT/Tanks/blob/master/screenshot/tanks_2.PNG "The Tanks Can Shoot Bullets")
 <br>
-![Alt text](https://github.com/JackTheBOSSYT/UnityGames/blob/master/screenshot/tanks_1.PNG "The Tanks Can Shoot Bullets")
+![Alt text](https://github.com/JackTheBOSSYT/Tanks/blob/master/screenshot/tanks_3.PNG "The Tanks Can Shoot Bullets")
 <br>
