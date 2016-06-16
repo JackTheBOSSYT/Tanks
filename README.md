@@ -9,7 +9,7 @@
 <b> S = Back</b>
 <b> D = Right</b>
 <b> SPACE = Shoot</b>
-<b>          </b>
+<b>    |      </b>
 <b>PLAYER 2</b>
 <b> ↑ = Forward</b>
 <b> ← = Left</b>
